@@ -8,6 +8,7 @@
 	<body>
 		<h1>This is awesome</h1>
 		<p>Evrithing is awesome</p>
+		<h2>Bonsoir</h2>
 		<p>Je sais pas quoi marquer</p>
 	</body>
 </html>
