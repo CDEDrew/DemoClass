@@ -1,1 +1,3 @@
-<h1>This is awesome</h1>
+<body>
+	<h1>This is awesome</h1>
+</body>
