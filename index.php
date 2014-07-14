@@ -9,7 +9,7 @@
 		<h1>This is awesome</h1>
 		<p>Evrithing is awesome</p>
 		<h2>Bonsoir</h2>
-		<p>Je sais pas quoi marquer</p>
+		<p>C'est pas mal moin long passer par le browser!! Moin de taponnage !!!!!!  Ahahaha !!!</p>
 
 		<ul>
 			<li>Darkness</li>
